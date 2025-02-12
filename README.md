@@ -52,7 +52,7 @@ O projeto está estruturado da seguinte forma:
 
 ## Tecnologias Utilizadas
 - **Linguagem:** Python
-- **Bibliotecas:** pandas, numpy, matplotlib, seaborn, scipy, sklearn, statsmodels, plotly
+- **Bibliotecas:** pandas, numpy, matplotlib, seaborn, scipy, sklearn, statsmodels, plotly, geopandas, folium
 - **Versionamento:** Git e GitHub
 
 ## Como Executar o Projeto
