@@ -33,18 +33,18 @@ O projeto está estruturado da seguinte forma:
    - Tratar valores ausentes e inconsistentes.
    - Padronizar os dados para facilitar a análise.
 
-2. **Transformação e Engenharia de Features**
+2. **Tratamento de Valores Ausentes e Outliers**
+   - Identificar e corrigir dados faltantes.
+   - Lidar com valores extremos que possam distorcer as análises.
+
+3. **Transformação e Engenharia de Features**
    - Criar novas variáveis a partir dos dados existentes.
    - Converter variáveis categóricas em numéricas.
 
-3. **Análise Exploratória (EDA)**
+4. **Análise Exploratória (EDA)**
    - Examinar a distribuição dos preços dos imóveis.
    - Avaliar correlação entre variáveis relevantes.
    - Visualizar a distribuição geográfica dos preços.
-
-4. **Tratamento de Valores Ausentes e Outliers**
-   - Identificar e corrigir dados faltantes.
-   - Lidar com valores extremos que possam distorcer as análises.
 
 5. **Testes Estatísticos e Modelagem Preditiva**
    - Realizar testes de significância estatística.
